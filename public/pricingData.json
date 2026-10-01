@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": "$19/month",
+    "description": "Perfect for individuals and beginners.",
+    "features": [
+      "1 User",
+      "10 GB Storage",
+      "Email Support",
+      "Basic Analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": "$49/month",
+    "description": "Great for freelancers and small teams.",
+    "features": [
+      "5 Users",
+      "100 GB Storage",
+      "Priority Support",
+      "Advanced Analytics",
+      "Custom Reports"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": "$99/month",
+    "description": "Best for growing businesses.",
+    "features": [
+      "15 Users",
+      "500 GB Storage",
+      "24/7 Support",
+      "Advanced Analytics",
+      "Custom Reports",
+      "API Access"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Enterprise",
+    "price": "$199/month",
+    "popular":true,
+    "description": "For large organizations and enterprises.",
+    "features": [
+      "Unlimited Users",
+      "Unlimited Storage",
+      "Dedicated Manager",
+      "24/7 Premium Support",
+      "Advanced Security",
+      "API Access",
+      "Custom Integrations"
+    ]
+  }
+]
